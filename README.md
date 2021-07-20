@@ -11,3 +11,6 @@ Search in Rotated Sorted Array
 
 Find First and Last Position of Element in Sorted Array
 - Array, Binary Search
+
+Maximum Subarray
+- Array, Dynamic Programming
