@@ -8,3 +8,6 @@ Lowest Common Ancestor of a Binary Search Tree
 
 Search in Rotated Sorted Array
 - Array, Binary Search
+
+Find First and Last Position of Element in Sorted Array
+- Array, Binary Search
