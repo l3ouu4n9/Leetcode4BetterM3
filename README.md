@@ -20,3 +20,6 @@ Climbing Stairs
 
 Best Time to Buy and Sell Stock
 - Array, Dynamic Programming
+
+Counting Bits
+- Dynamic Programming, Bit Manipulation
